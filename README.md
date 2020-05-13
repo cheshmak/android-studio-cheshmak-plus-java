@@ -1,3 +1,15 @@
-# android-studio-cheshmak-plus-java
+# CHESHMAK PLUS Android Studio Sample
+# مثال چشمک پلاس در اندروید استودیو
+<div dir="rtl">
+در این ریپازیتوری یک پروژه نمونه قرار داده شده است که در آن انواع مختلف تبلیغات چشمک پلاس پیاده سازی شده است. این نوع تبلیغات عبارتند از:
+* Banner
+* MREC Banner
+* Interstitial
+* Rewarded
+* Native
 
-sample code for start using CheshmakPlus
+شما می توانید نحوه پیاده سازی هر یک از آن ها را در این مثال مطالعه کنید.
+
+برای اطلاعات بیشتر به مستندات چشمک مراجعه کنید:
+</div>
+https://www.cheshmak.me/docs/
