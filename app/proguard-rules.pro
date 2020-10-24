@@ -27,4 +27,7 @@
 #    <fields>;
 #}
 
+-dontwarn android.view.accessibility.**
+#-dontwarn com.unity3d.**
+
 
